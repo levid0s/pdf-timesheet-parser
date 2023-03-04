@@ -2,7 +2,7 @@
 
 Python script that crawls all my PDF payslips that are in a very specific format from my provider; and creates a summary.
 
-Does a basic sanity check (`S_CHECK`), ie the calculations on the PDF are correct.
+Does a basic sanity check (`S_CHECK`), ie any difference between the provider's payment and the script's calculations would appear here.
 
 ### Usage:
 
