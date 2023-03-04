@@ -1,4 +1,4 @@
-## Readme
+## PDF Timesheet Parser
 
 Python script that crawls all my PDF payslips that are in a very specific format from my provider; and creates a summary.
 
